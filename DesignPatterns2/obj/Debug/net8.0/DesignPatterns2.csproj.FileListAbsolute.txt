@@ -1,0 +1,56 @@
+C:\Users\User\Documents\project_designPatterns\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\project_designPatterns\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.AssemblyInfoInputs.cache
+C:\Users\User\Documents\project_designPatterns\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.AssemblyInfo.cs
+C:\Users\User\Documents\project_designPatterns\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\project_designPatterns\DesignPatterns2\DesignPatterns2\bin\Debug\net8.0\DesignPatterns2.exe
+C:\Users\User\Documents\project_designPatterns\DesignPatterns2\DesignPatterns2\bin\Debug\net8.0\DesignPatterns2.deps.json
+C:\Users\User\Documents\project_designPatterns\DesignPatterns2\DesignPatterns2\bin\Debug\net8.0\DesignPatterns2.runtimeconfig.json
+C:\Users\User\Documents\project_designPatterns\DesignPatterns2\DesignPatterns2\bin\Debug\net8.0\DesignPatterns2.dll
+C:\Users\User\Documents\project_designPatterns\DesignPatterns2\DesignPatterns2\bin\Debug\net8.0\DesignPatterns2.pdb
+C:\Users\User\Documents\project_designPatterns\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.dll
+C:\Users\User\Documents\project_designPatterns\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\refint\DesignPatterns2.dll
+C:\Users\User\Documents\project_designPatterns\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.pdb
+C:\Users\User\Documents\project_designPatterns\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.genruntimeconfig.cache
+C:\Users\User\Documents\project_designPatterns\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\ref\DesignPatterns2.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\הגשה מאוחרת יום רבייע\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\bin\Debug\net8.0\DesignPatterns2.exe
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\הגשה מאוחרת יום רבייע\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\bin\Debug\net8.0\DesignPatterns2.deps.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\הגשה מאוחרת יום רבייע\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\bin\Debug\net8.0\DesignPatterns2.runtimeconfig.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\הגשה מאוחרת יום רבייע\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\bin\Debug\net8.0\DesignPatterns2.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\הגשה מאוחרת יום רבייע\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\bin\Debug\net8.0\DesignPatterns2.pdb
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\הגשה מאוחרת יום רבייע\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.GeneratedMSBuildEditorConfig.editorconfig
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\הגשה מאוחרת יום רבייע\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.AssemblyInfoInputs.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\הגשה מאוחרת יום רבייע\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.AssemblyInfo.cs
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\הגשה מאוחרת יום רבייע\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.csproj.CoreCompileInputs.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\הגשה מאוחרת יום רבייע\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\הגשה מאוחרת יום רבייע\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\refint\DesignPatterns2.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\הגשה מאוחרת יום רבייע\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.pdb
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\הגשה מאוחרת יום רבייע\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.genruntimeconfig.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\הגשה מאוחרת יום רבייע\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\ref\DesignPatterns2.dll
+D:\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\bin\Debug\net8.0\DesignPatterns2.exe
+D:\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\bin\Debug\net8.0\DesignPatterns2.deps.json
+D:\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\bin\Debug\net8.0\DesignPatterns2.runtimeconfig.json
+D:\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\bin\Debug\net8.0\DesignPatterns2.dll
+D:\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\bin\Debug\net8.0\DesignPatterns2.pdb
+D:\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.AssemblyInfoInputs.cache
+D:\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.AssemblyInfo.cs
+D:\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.csproj.CoreCompileInputs.cache
+D:\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.dll
+D:\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\refint\DesignPatterns2.dll
+D:\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.pdb
+D:\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.genruntimeconfig.cache
+D:\ותמר דהאן נעמה סעדון\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\ref\DesignPatterns2.dll
+C:\Users\User\Desktop\נעמה לימודים\ספריה\DesignPatterns2\DesignPatterns2\bin\Debug\net8.0\DesignPatterns2.exe
+C:\Users\User\Desktop\נעמה לימודים\ספריה\DesignPatterns2\DesignPatterns2\bin\Debug\net8.0\DesignPatterns2.deps.json
+C:\Users\User\Desktop\נעמה לימודים\ספריה\DesignPatterns2\DesignPatterns2\bin\Debug\net8.0\DesignPatterns2.runtimeconfig.json
+C:\Users\User\Desktop\נעמה לימודים\ספריה\DesignPatterns2\DesignPatterns2\bin\Debug\net8.0\DesignPatterns2.dll
+C:\Users\User\Desktop\נעמה לימודים\ספריה\DesignPatterns2\DesignPatterns2\bin\Debug\net8.0\DesignPatterns2.pdb
+C:\Users\User\Desktop\נעמה לימודים\ספריה\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\נעמה לימודים\ספריה\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\נעמה לימודים\ספריה\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.AssemblyInfo.cs
+C:\Users\User\Desktop\נעמה לימודים\ספריה\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\נעמה לימודים\ספריה\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.dll
+C:\Users\User\Desktop\נעמה לימודים\ספריה\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\refint\DesignPatterns2.dll
+C:\Users\User\Desktop\נעמה לימודים\ספריה\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.pdb
+C:\Users\User\Desktop\נעמה לימודים\ספריה\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\DesignPatterns2.genruntimeconfig.cache
+C:\Users\User\Desktop\נעמה לימודים\ספריה\DesignPatterns2\DesignPatterns2\obj\Debug\net8.0\ref\DesignPatterns2.dll
